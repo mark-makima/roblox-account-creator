@@ -1,0 +1,120 @@
+acc: lgjQUedOEKT
+pass: HONOiMbNdAk
+
+-------------
+BROKED DATA
+
+acc: bXCcHMpEoxW
+pass: NTUWChYHYtO
+
+acc: IfowmaHyUun
+pass: ZSOVahSyhHf
+
+-------------
+SOLDED
+
+acc: GTiHkfEkVnz
+pass: SpUchbuEaAY
+
+-------------
+SOLDED
+
+acc: sPogMwiMUxi
+pass: pcqFXgAqYwb
+
+acc: uTZlRiGGJfz
+pass: LHWqJiregZD
+
+-------------
+SOLDED
+
+acc: WhQYDHxEFAH
+pass: DMGbyqvwZTK
+
+-------------
+TRUE
+
+acc: yVChNpPPeKC
+pass: TWJNUcDZpQd
+
+acc: XXPEIzMpnXI
+pass: GGvfaQweIhA
+
+-------------
+TRUE
+
+
+
+
+
+
+null accounts
+--------------------------------------------------------------------------------------------------------
+acc: NtaTLoqvrnV pass: VNujkamSBBy 
+acc: daaoxHxaNkM pass: cqLxipFPMhl 
+acc: WrepsuUMyTA pass: oQgWuONrBtu 
+acc: yZSFZNJbEfN pass: GWsgPzXUpWC 
+acc: JkbyXLzoJuk pass: FLsGffLHMqT 
+acc: CEMWpneOWqQ pass: DHQxwRxRlJC 
+acc: VryAxOMFbYN pass: IoMGelZbRgz 
+acc: qyOaoNcgHpy pass: dDRxfYIZubW 
+acc: fjxqvrCkOWa pass: NbkRCuzqNsR 
+acc: zCKPFvhUyTd pass: XZKztgViyoO 
+--------------------------------------------------------------------------------------------------------
+
+
+acc: BSIdBdHafvE
+pass: fLMjwUDRPXc
+
+-------------
+TRUE
+
+acc: RoWzwNoTAGG
+pass: qZroueggmqE
+
+-------------
+ANDREY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acc: OeCWLenYksC
+pass: IBvprYoQYDT
+
+-------------
+ACCOUNT REGISTRIED
+
+-------------
+TRUE
+
