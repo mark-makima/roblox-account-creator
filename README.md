@@ -15,4 +15,5 @@ how to use it?
 3. open git bash
 4. send: https://github.com/mark-makima/roblox-account-creator
 5. if download hasn`t erros use next step
-6. send: python
+6. send: cd roblox-account-creator
+7. send: python gn.py
