@@ -1,3 +1,7 @@
+Attention!
+this project is not working because Roblox made validation system on him site.
+you can install and try it for own interesting or other ideas, but it will not working.
+
 Hi, user! 👋
 
 If you need a simple account generator for sale or for personal use, then welcome!
